@@ -3,7 +3,7 @@
 L'obiettivo di questo laboratorio è mostrare come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
 <!--
 <p align="center">
-<img width="600" alt="BUS" src="https://github.com/user-attachments/assets/e484e8dc-6daf-48c9-bad7-916d902b9941" />
+<img width="1886" height="582" alt="new" src="https://github.com/user-attachments/assets/8b3bf850-6ee1-434d-9105-3057fdf92bbd" />
 </p>
 -->
 <p align="center">
