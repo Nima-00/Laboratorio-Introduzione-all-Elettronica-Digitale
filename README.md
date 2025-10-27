@@ -1,4 +1,4 @@
-# ⚡ Laboratorio-Introduzione-all-Elettronica-Digitale
+# ⚡ Laboratorio Introduzione all'Elettronica Digitale
 
 L'obiettivo di questo laboratorio è mostrare come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
 <!--
