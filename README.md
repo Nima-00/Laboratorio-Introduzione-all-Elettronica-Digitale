@@ -7,7 +7,7 @@ L'obiettivo di questo laboratorio è mostrare come semplici circuiti logici perm
 </p>
 -->
 <p align="center">
-<img width="1886" height="582" alt="immagine" src="https://github.com/user-attachments/assets/32b93575-55c8-4dbd-8644-b1c15ea0829d" />
+<img width="1886" height="582" alt="new" src="https://github.com/user-attachments/assets/1d168d45-9905-415b-809b-f319f0ea5ccd" />
 </p>
 
 Il laboratorio è suddiviso in tre parti:
