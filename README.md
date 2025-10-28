@@ -18,3 +18,23 @@ Il laboratorio è suddiviso in tre parti:
 **Risorse:**
 - **Piattaforma**: [CircuitVerse](https://circuitverse.org/) - simulatore di circuiti digitali online
 - **Materiale**: adattato dalla serie [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) di Sebastian Lague
+
+## Organizzazione repository
+
+```
+├── .../                    # Materiale Teoria
+│   ├── ...
+│   └── ...
+│ 
+├── .../                    # Esercizi
+│   ├── ...
+│   └── ...
+|
+└── README.md
+```
+
+## Da fare
+- aggiungere teoria numeri binari [sistemi di numerazione, conversioni binario-decimale, somme in binario, numeri con la virgola, numeri negativi, numeri a virgola mobile, riferimento al libro]
+- aggiungere accenni all'architettura di Von Neumann
+- aggiungere accenni ai livelli di astrazione di un elaboratore
+- aggiungere parte relativa alla codifica di dati [numeri->binario, caratteri->ASCII/Unicode, immagini->pixels, audio->..., video->...]
