@@ -38,3 +38,4 @@ Il laboratorio è suddiviso in tre parti:
 - aggiungere accenni all'architettura di Von Neumann
 - aggiungere accenni ai livelli di astrazione di un elaboratore
 - aggiungere parte relativa alla codifica di dati [numeri->binario, caratteri->ASCII/Unicode, immagini->pixels, audio->..., video->...]
+- rifare il readme
