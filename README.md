@@ -34,6 +34,7 @@ Il laboratorio è suddiviso in tre parti:
 ```
 
 ## Da fare
+- aggiungere parte descrittiva relativa ai laboratori
 - aggiungere teoria numeri binari [sistemi di numerazione, conversioni binario-decimale, somme in binario, numeri con la virgola, numeri negativi, numeri a virgola mobile, riferimento al libro]
 - aggiungere accenni all'architettura di Von Neumann
 - aggiungere accenni ai livelli di astrazione di un elaboratore
