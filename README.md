@@ -1,7 +1,7 @@
 # ⚡ Laboratorio: Introduzione all'Elettronica Digitale
 
-Questo repository fornisce una solida introduzione all'Elettronica Digitale fornendo sia un'introduzione teorica che pratica alla disciplina.
-La teoria si concentra sulla presentazione dell'architettura di von Neumann e sulla rappresentazione dei dati all'interno di un computer.
+Questo repository fornisce una solida introduzione all'Elettronica Digitale sia da un punto di vista teorico che pratico.
+La teoria si concentra sull'architettura di von Neumann e sulla rappresentazione dei dati all'interno di un computer.
 I laboratori motrano invece come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
 
 L'attività è suddivisa in tre parti:
@@ -32,11 +32,3 @@ Il materiale proposto è interamente basato sulle seguenti fonti:
 - **Teoria**: libro [Essentials of Computing Systems](https://ebooks.uminho.pt/index.php/uminho/catalog/view/33/128/1262-1) di João M. Fernandes
 - **Laboratori**: adattato dalla serie [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) di Sebastian Lague
 - **Piattaforma**: [CircuitVerse](https://circuitverse.org/) - simulatore di circuiti digitali online
-
-## Da fare
-- aggiungere parte descrittiva relativa ai laboratori
-- aggiungere teoria numeri binari [sistemi di numerazione, conversioni binario-decimale, somme in binario, numeri con la virgola, numeri negativi, numeri a virgola mobile, riferimento al libro]
-- aggiungere accenni all'architettura di Von Neumann
-- aggiungere accenni ai livelli di astrazione di un elaboratore
-- aggiungere parte relativa alla codifica di dati [numeri->binario, caratteri->ASCII/Unicode, immagini->pixels, audio->..., video->...]
-- rifare il readme
