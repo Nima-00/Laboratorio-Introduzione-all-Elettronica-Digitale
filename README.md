@@ -16,9 +16,7 @@ L'attività è suddivisa in tre parti:
 ## Organizzazione repository
 
 ```
-├── .../                    # Materiale Teoria
-│   ├── ...
-│   └── ...
+├── intro_elettronica_digitale.pdf            # Teoria
 │ 
 ├── CircuitVerse_labs.zip/                    # Laboratori
 │   ├── Lab_1_ ALU.cv
