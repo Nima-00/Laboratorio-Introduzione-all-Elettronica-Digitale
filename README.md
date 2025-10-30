@@ -20,9 +20,10 @@ L'attività è suddivisa in tre parti:
 │   ├── ...
 │   └── ...
 │ 
-├── .../                    # Esercizi
-│   ├── ...
-│   └── ...
+├── CircuitVerse_labs.zip/                    # Laboratori
+│   ├── Lab_1_ ALU.cv
+│   ├── Lab_2_ Registri.cv
+│   └── Lab_3_ BUS.cv
 |
 └── README.md
 ```
