@@ -1,6 +1,8 @@
 # ⚡ Laboratorio: Introduzione all'Elettronica Digitale
 
-L'obiettivo di questo laboratorio è fornire un'introduzione all'Elettronica Digitale, mostrando come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
+Questo repository fornisce una solida introduzione all'Elettronica Digitale fornendo sia un'introduzione teorica che pratica alla disciplina.
+La teoria si concentra sulla presentazione dell'architettura di von Neumann e sulla rappresentazione dei dati all'interno di un computer.
+I laboratori motrano invece come semplici circuiti logici permettano di eseguire operazioni aritmetiche e memorizzare i risultati ottenuti.
 
 L'attività è suddivisa in tre parti:
 1. **Laboratorio 1: ALU** - Costruire un'*Arithmetic Logic Unit* in grado di sommare o sottrarre numeri binari
