@@ -22,7 +22,7 @@ L'attività è suddivisa in tre parti:
 │   ├── Lab_1_ ALU.cv
 │   ├── Lab_2_ Registri.cv
 │   └── Lab_3_ BUS.cv
-|
+│
 └── README.md
 ```
 
