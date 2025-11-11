@@ -28,6 +28,6 @@ L'attività è suddivisa in tre parti:
 
 ## Materiale di riferimento
 Il materiale proposto è interamente basato sulle seguenti fonti:
-- **Teoria**: libro [Essentials of Computing Systems](https://ebooks.uminho.pt/index.php/uminho/catalog/view/33/128/1262-1) di João M. Fernandes
+- **Teoria**: libro [Essentials of Computing Systems](https://ebooks.uminho.pt/index.php/uminho/catalog/view/33/128/1262-1) di João M. Fernandes, lezioni [Elettronica 2018 - UNIPI](https://www.youtube.com/playlist?list=PLCjGgQmvm3MOojFcxo5dxO_Fa1Pldttqy) di Giuseppe Iannaccone
 - **Laboratori**: adattato dalla serie [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) di Sebastian Lague
 - **Piattaforma**: [CircuitVerse](https://circuitverse.org/) - simulatore di circuiti digitali online
