@@ -19,7 +19,7 @@ L'attività è suddivisa in tre parti:
 ├── 01_teoria/                                # Teoria
 │   └── intro_elettronica_digitale.pdf 
 │ 
-├── 02_labs/                                  # Laboratori
+├── 02_laboratori/                            # Laboratori
 │   ├── Lab_1_ALU.cv
 │   ├── Lab_2_Registri.cv
 │   └── Lab_3_BUS.cv
