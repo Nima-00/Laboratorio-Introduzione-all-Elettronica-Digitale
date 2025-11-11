@@ -16,12 +16,13 @@ L'attività è suddivisa in tre parti:
 ## Organizzazione repository
 
 ```
-├── intro_elettronica_digitale.pdf            # Teoria
+├── 01_teoria/                                # Teoria
+│   └── intro_elettronica_digitale.pdf 
 │ 
-├── CircuitVerse_labs.zip/                    # Laboratori
-│   ├── Lab_1_ ALU.cv
-│   ├── Lab_2_ Registri.cv
-│   └── Lab_3_ BUS.cv
+├── 02_labs/                                  # Laboratori
+│   ├── Lab_1_ALU.cv
+│   ├── Lab_2_Registri.cv
+│   └── Lab_3_BUS.cv
 │
 └── README.md
 ```
